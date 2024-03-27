@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="string_nama">Nama Anda :</string>
+    <string name="string_ETnama">Masukan Nama Anda</string>
+    <string name="string_barang">Nama Barang :</string>
+    <string name="string_ETbarang">Masukan Nama Barang</string>
+    <string name="string_code">Code Barang :</string>
+    <string name="string_ETcode">Masukan Code Barang</string>
+    <string name="string_harga">Harga :</string>
+    <string name="string_ETharga">Masukan Harga Barang</string>
+    <string name="string_jumlah">Jumlah Barang :</string>
+    <string name="string_ETjumlah">Masukan Jumlah Barang</string>
+    <string name="string_bayar">Bayar :</string>
+    <string name="string_ETbayar">Masukan Jumlah Bayar</string>
+    <string name="string_ok">Ok</string>
+    <string name="string_transaksiberhasil">Transaksi Berhasil</string>
+    <string name="string_total">Total :</string>
+    <string name="string_bonus">Bonus :</string>
+    <string name="string_kembalian">Kembalian :</string>
+    <string name="string_keterangan">Keterangan :</string>
+    <string name="string_hapus">Hapus</string>
+    <string name="string_berbagi">Share</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">第 5 天任务</string>
+    <string name="string_nama">你的名字 ：</string>
+    <string name="string_ETnama">输入你的名字</string>
+    <string name="string_barang">项目名 ：</string>
+    <string name="string_ETbarang">输入商品名称</string>
+    <string name="string_code">项目代码 ：</string>
+    <string name="string_ETcode">输入商品代码</string>
+    <string name="string_harga">价格 ：</string>
+    <string name="string_ETharga">输入商品价格</string>
+    <string name="string_jumlah">货物数量 ：</string>
+    <string name="string_ETjumlah">输入商品数量</string>
+    <string name="string_bayar">支付 ：</string>
+    <string name="string_ETbayar">输入付款金额</string>
+    <string name="string_ok">好的</string>
+    <string name="string_transaksiberhasil">交易成功</string>
+    <string name="string_total">全部的 ：</string>
+    <string name="string_bonus">奖金 ：</string>
+    <string name="string_kembalian">返回 ：</string>
+    <string name="string_keterangan">信息 ：</string>
+    <string name="string_hapus">擦拭</string>
+    <string name="string_berbagi">分享</string>
+</resources>

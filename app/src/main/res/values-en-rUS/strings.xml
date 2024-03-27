@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Day 5 Tasks</string>
+    <string name="string_nama">Your name :</string>
+    <string name="string_ETnama">Enter Your Name</string>
+    <string name="string_barang">Item Name :</string>
+    <string name="string_ETbarang">Enter the Item Name</string>
+    <string name="string_code">Item Code :</string>
+    <string name="string_ETcode">Enter the Item Code</string>
+    <string name="string_harga">Price :</string>
+    <string name="string_ETharga">Enter the Item Price</string>
+    <string name="string_jumlah">Number of Items :</string>
+    <string name="string_ETjumlah">Enter the Number of Items :</string>
+    <string name="string_bayar">Pay :</string>
+    <string name="string_ETbayar">Enter the Payment Amount</string>
+    <string name="string_ok">Ok</string>
+    <string name="string_transaksiberhasil">Transaction Successful</string>
+    <string name="string_total">Total :</string>
+    <string name="string_bonus">Bonus :</string>
+    <string name="string_kembalian">Return :</string>
+    <string name="string_keterangan">Information :</string>
+    <string name="string_hapus">Delete</string>
+    <string name="string_berbagi">Share</string>
+</resources>

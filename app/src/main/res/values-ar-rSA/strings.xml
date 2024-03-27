@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مهام اليوم الخامس</string>
+    <string name="string_nama">اسمك :</string>
+    <string name="string_ETnama">أدخل أسمك</string>
+    <string name="string_barang">اسم العنصر :</string>
+    <string name="string_ETbarang">أدخل اسم العنصر</string>
+    <string name="string_code">رمز الصنف :</string>
+    <string name="string_ETcode">أدخل رمز السلعة</string>
+    <string name="string_harga">سعر :</string>
+    <string name="string_ETharga">أدخل سعر السلعة</string>
+    <string name="string_jumlah">كمية البضاعة :</string>
+    <string name="string_ETjumlah">أدخل عدد العناصر</string>
+    <string name="string_bayar">يدفع :</string>
+    <string name="string_ETbayar">أدخل مبلغ الدفع</string>
+    <string name="string_ok">نعم</string>
+    <string name="string_transaksiberhasil">عملية ناجحة</string>
+    <string name="string_total">المجموع :</string>
+    <string name="string_bonus">المكافأة :</string>
+    <string name="string_kembalian">عائدات :</string>
+    <string name="string_keterangan">معلومة :</string>
+    <string name="string_hapus">يمسح</string>
+    <string name="string_berbagi">يشارك</string>
+</resources>
